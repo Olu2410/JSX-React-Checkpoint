@@ -1,0 +1,64 @@
+{
+  "productinfo": [
+    {
+    "name": "Smartwatch",
+    "price": "$499.99",
+    "description": "A high-performance wrist watch with advanced features.",
+    "imageURL": "https://cdn.wareable.com/r/s/1200x/assets/images/86-apple-watch-wearable-technology-features-10-best-smartwatches-for-iphone-and-apple-watch-alternatives-non-imported-image3-kb8yagds0x.jpg"
+},
+
+{
+  "name": "Samsung",
+  "price": "$560",
+  "description": "A high-performance smartphone with advanced features.",
+  "imageURL": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2160x1440/2400x1600/filters:focal(1080x720:1081x721):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24961824/Samsung_Galaxy_S24_5K2_scaled.jpg"
+},
+
+{
+    "name": "Iphone",
+    "price": "$500",
+    "description": "A high-performance smartphone with advanced features.",
+    "imageURL": "https://imageio.forbes.com/specials-images/imageserve/641397e79f04500b85460b8f/Apple--iPhone-15--iPhone-15-Pro-Max--iPhone-15-Pro--iPhone-15-Pro-design--iPhone-15/0x0.jpg?format=jpg&crop=924,693,x352,y0,safe&width=960"
+  },
+
+  {
+    "name": "Smart Glasses",
+    "price": "$850",
+    "description": "A high-performance smart glasse with advanced features.",
+    "imageURL": "https://static.toiimg.com/thumb/msid-93289415,width-1280,height-720,resizemode-4/93289415.jpg"
+  },
+
+  {
+    "name": "Smartwatch",
+    "price": "$499.99",
+    "description": "A high-performance wrist watch with advanced features.",
+    "imageURL": "https://cdn.wareable.com/r/s/1200x/assets/images/86-apple-watch-wearable-technology-features-10-best-smartwatches-for-iphone-and-apple-watch-alternatives-non-imported-image3-kb8yagds0x.jpg"
+},
+
+{
+  "name": "Samsung",
+  "price": "$560",
+  "description": "A high-performance smartphone with advanced features.",
+  "imageURL": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2160x1440/2400x1600/filters:focal(1080x720:1081x721):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24961824/Samsung_Galaxy_S24_5K2_scaled.jpg"
+},
+
+{
+    "name": "Iphone",
+    "price": "$500",
+    "description": "A high-performance smartphone with advanced features.",
+    "imageURL": "https://imageio.forbes.com/specials-images/imageserve/641397e79f04500b85460b8f/Apple--iPhone-15--iPhone-15-Pro-Max--iPhone-15-Pro--iPhone-15-Pro-design--iPhone-15/0x0.jpg?format=jpg&crop=924,693,x352,y0,safe&width=960"
+  },
+
+  {
+    "name": "Smart Glasses",
+    "price": "$850",
+    "description": "A high-performance smart glasse with advanced features.",
+    "imageURL": "https://static.toiimg.com/thumb/msid-93289415,width-1280,height-720,resizemode-4/93289415.jpg"
+  }
+]
+}
+
+
+  
+  
+  
